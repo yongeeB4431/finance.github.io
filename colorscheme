@@ -1,0 +1,27 @@
+--shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  --primary-bg: rgba(4, 4, 4, 0.899);
+  --transparent: linear-gradient(transparent, black, transparent);
+  --border-color: rgb(46, 45, 45);
+  --receipt-transparent: linear-gradient(
+    transparent,
+    var(--primary-bg),
+    transparent
+  );
+  --accent-color: rgb(55, 2, 2); 
+
+
+  /* 
+   pink
+   --receipt-color: var(--bg-color);
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  --primary-bg: rgb(255, 205, 230);
+  --button-text-color: black;
+  --transparent: linear-gradient(transparent, rgb(110, 53, 99), transparent);
+  --border-color: rgb(243, 176, 237);
+  --receipt-transparent: linear-gradient(
+    transparent,
+    rgb(110, 53, 99),
+    transparent
+  );
+  --accent-color: rgb(94, 3, 71);
+  --bg-color: rgb(246, 232, 239); */
